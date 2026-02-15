@@ -1,9 +1,12 @@
 ---
-layout: home
+layout: default
+title: Home
 ---
 
 # Welcome
 
-This is a simple Jekyll site hosted on GitHub Pages.
+This is a simple Jekyll site with a LaTeX-inspired design.
 
-You can edit this page by modifying `index.md`.
+## About This Site
+
+The design uses LaTeX.css to give it that clean, academic paper aesthetic. Simple and elegant.
